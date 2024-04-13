@@ -24,11 +24,13 @@ Order Management: Users can view and manage their previously placed orders.
 
 Messaging with Sellers: Users can communicate with sellers via a messaging system to inquire about products, negotiate prices, or clarify details before making a purchase.
 
+
 INSTALLATION AND RUNNING
 
 Clone Repository: Clone the repository to your computer with the following command:
 
 https://github.com/duylieu909/LUANVAN_AGRICOMMERCE
+
 
 INSTALL DEPENDENCIES
 
