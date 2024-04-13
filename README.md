@@ -1,8 +1,8 @@
-AGRI-COMMERCE
+# AGRI-COMMERCE
 
 Agri-Commerce is an e-commerce website developed to connect buyers, sellers, and administrators in the agricultural sector. With the aim of providing a convenient and secure online platform, Agri-Commerce offers users an easy and flexible experience for purchasing agricultural products online.
 
-ACTORS
+# ACTORS
 
 Buyer: A buyer is an individual or organization that purchases agricultural products through the Agri-Commerce platform. Buyers can register for an account, search for products, add items to their cart, make purchases, and manage their orders.
 
@@ -10,7 +10,7 @@ Seller: A seller is an individual or business that lists agricultural products f
 
 Admin: An admin is a user with administrative privileges who manages and oversees the Agri-Commerce platform. Admins have access to backend functionalities such as user management, product management, order management, and site configuration. They ensure the smooth operation of the platform and handle any issues or disputes that may arise.
 
-FEATURES
+# FEATURES
 
 Registration and Login: Users can register for a new account or log in to the system using a username and password.
 
@@ -25,14 +25,14 @@ Order Management: Users can view and manage their previously placed orders.
 Messaging with Sellers: Users can communicate with sellers via a messaging system to inquire about products, negotiate prices, or clarify details before making a purchase.
 
 
-INSTALLATION AND RUNNING
+# INSTALLATION AND RUNNING
 
 Clone Repository: Clone the repository to your computer with the following command:
 
 https://github.com/duylieu909/LUANVAN_AGRICOMMERCE
 
 
-INSTALL DEPENDENCIES
+# INSTALL DEPENDENCIES
 
 Navigate to the frontend, backend and socket directories and install the dependencies:
 
@@ -74,13 +74,13 @@ cd socket
 
 npm start
 
-Access the Application: 
+# Access the Application: 
 Open a web browser and go to http://localhost:3000 to view the website.
 
-CONTRIBUTING
+# CONTRIBUTING
 
 We welcome contributions from the community. If you would like to contribute to Agri-Commerce, please create a pull request and we will review it.
 
-CONTACT
+# CONTACT
 
 If you have any questions or suggestions, please feel free to contact us via email: lieuhoangduy000@gmail.com.
