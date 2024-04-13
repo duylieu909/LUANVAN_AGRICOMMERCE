@@ -34,7 +34,7 @@ https://github.com/duylieu909/LUANVAN_AGRICOMMERCE
 
 INSTALL DEPENDENCIES
 
-Navigate to the frontend and backend directories and install the dependencies:
+Navigate to the frontend, backend and socket directories and install the dependencies:
 
 Frontend:
 
